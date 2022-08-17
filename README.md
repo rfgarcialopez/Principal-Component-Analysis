@@ -2,7 +2,7 @@
     Principal-Component-Analysis (PCA)
 </p>
 
-
+<p style="color:red">This is a paragraph.</p>
 <div align="center"> Principal-Component-Analysis (PCA) </div>
 
 # Getting Started
