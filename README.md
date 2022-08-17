@@ -1,4 +1,4 @@
-<p align="center"> font-size: 100
+<p align="center", size="20">
 Principal-Component-Analysis (PCA)
 </p>
 
