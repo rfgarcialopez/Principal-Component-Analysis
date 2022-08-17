@@ -1,5 +1,5 @@
-<p align="center">
-#Principal-Component-Analysis (PCA)#
+<p align="center"> font-size: 100
+Principal-Component-Analysis (PCA)
 </p>
 
 
