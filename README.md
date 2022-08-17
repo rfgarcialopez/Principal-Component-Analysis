@@ -1,5 +1,3 @@
-<p align="center"> Principal-Component-Analysis (PCA) </p>
-
 # Getting Started
 Data exploration, Clustering, Visualization, 
 
